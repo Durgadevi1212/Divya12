@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:  fixed;
+
+}
+nav{
+    background-color: goldenrod;
+    color: darkred;
+    padding: 30px;
+    font-size: larger;
+    
+}
+ul,h1,li{
+    display: inline;
+}
+ul{
+    margin-left: 45%;
+    
+}
+li{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-style: oblique;
+    
+}
+li:hover{
+    color: black;
+    cursor: pointer;
+}
+div{
+    color: black;
+    background-color: blanchedalmond;
+    display: block;
+    padding: 20px;
+     margin: 2%;
+}
+p{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-style: italic;
+}
+    
+   
